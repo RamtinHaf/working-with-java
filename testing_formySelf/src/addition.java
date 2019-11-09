@@ -95,10 +95,14 @@ public class addition {
     }
 
     public static void main(String args[]) {
-
+        String navn;
+        System.out.println("What is your name? ");
+        Scanner navnet = new Scanner(System.in);
+        navn = navnet.nextLine();
         int valg;
         while (true) {
             System.out.println("______________________");
+            System.out.println("Welcome back, " +navn );
             System.out.println("What do you want to do?");
             System.out.println("1. addition");
             System.out.println("2. subtraksjon");
