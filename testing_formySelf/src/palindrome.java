@@ -42,7 +42,7 @@ public class palindrome{
     public static void main(String[] args) {
         String navn;
         int valg;
-        System.out.println("Welcome to Palindrome check game");
+        System.out.println("Welcome to Palindrome check program");
         System.out.println("Enter your name: ");
         Scanner a = new Scanner(System.in);
         navn = a.nextLine();
