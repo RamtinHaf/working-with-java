@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "testing_formySelf_549802df"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - addition",
             "request": "launch",
             "mainClass": "addition"
