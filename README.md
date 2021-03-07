@@ -1,2 +1,2 @@
-# working-with-java-Lil-Ram
-just because of exam
+## working-with-java-Lil-Ram
+Trying out different functions with Java.
